@@ -1,0 +1,5 @@
+[{
+"id": "convertuml",
+"caption": "Convert UML",
+"command": "convert_uml"
+}]
